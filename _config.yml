@@ -20,18 +20,18 @@ source-code: https://github.com/ruhrose/ala-demo-rm
 # title of site appears in banner
 title: Psychiana Demo
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Materials related to the Psychiana religion popular in the 1930s and 0s
+tagline: Materials related to the Psychiana religion popular in the 1930s and 40s
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection includes audio, textual, and image files from the Psychiana collection at the University of Idaho library."
+description: "This collection includes audio, textual, and image files from the Psychiana collection at the University of Idaho library. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Rosemary Medrano
+author: ruhrose
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: psychiana
+metadata: pscychiana
 
 ##########
 # GOOGLE SERVICES [optional!]
